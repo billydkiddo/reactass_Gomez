@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/billydkiddo.github.io/reactass_Gomez/static/css/main.073c9b0a.css",
+    "main.js": "/billydkiddo.github.io/reactass_Gomez/static/js/main.629d1243.js",
+    "static/media/bp1.png": "/billydkiddo.github.io/reactass_Gomez/static/media/bp1.e205bbeddb43f3c2df63.png",
+    "static/media/bp3.png": "/billydkiddo.github.io/reactass_Gomez/static/media/bp3.3e397277bf1a41a807ee.png",
+    "static/media/bp4.png": "/billydkiddo.github.io/reactass_Gomez/static/media/bp4.43c57fa6dda33e05bfa7.png",
+    "static/media/bp2.png": "/billydkiddo.github.io/reactass_Gomez/static/media/bp2.a96ae26808e94e84909c.png",
+    "index.html": "/billydkiddo.github.io/reactass_Gomez/index.html",
+    "main.073c9b0a.css.map": "/billydkiddo.github.io/reactass_Gomez/static/css/main.073c9b0a.css.map",
+    "main.629d1243.js.map": "/billydkiddo.github.io/reactass_Gomez/static/js/main.629d1243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.629d1243.js"
+  ]
+}
